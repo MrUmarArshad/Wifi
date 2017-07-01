@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">GPA Calculator</string>
+    <string name="clear_all_data">Clear all data</string>
+    <string name="semester_1">Semester 1</string>
+    <string name="semester_2">Semester 2</string>
+    <string name="semester_3">Semester 3</string>
+    <string name="semester_4">Semester 4</string>
+    <string name="semester_5">Semester 5</string>
+    <string name="semester_6">Semester 6</string>
+    <string name="semester_7">Semester 7</string>
+    <string name="semester_8">Semester 8</string>
+    <string name="semester_9">Semester 9</string>
+    <string name="semester_10">Semester 10</string>
+    <string name="gpa_calculator">GPA Calculator</string>
+    <string name="semester">Semester</string>
+    <string name="gpa">GPA:</string>
+    <string name="_0_0">0.0</string>
+    <string name="_0">0</string>
+    <string name="semester_credits">Semester Credits:</string>
+    <string name="clear_semester">Clear Semester</string>
+    <string name="credits">Credits</string>
+    <string name="course">Course</string>
+    <string name="grade">Grade</string>
+    <string name="cr">Cr</string>
+    <string name="gr">Gr</string>
+    <string-array name="semesterNames">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="grades">
+        <item>A+  (4.0)</item>
+        <item>A   (3.7)</item>
+        <item>B+  (3.3)</item>
+        <item>B   (3.0)</item>
+        <item>C+  (2.5)</item>
+        <item>C   (2.3)</item>
+        <item>D   (2.1)</item>
+        <item>D+  (2.0)</item>
+        <item>F   (1.5)</item>
+    </string-array>
+    <string-array name="credits_hour">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
